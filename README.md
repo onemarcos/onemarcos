@@ -5,6 +5,8 @@
 - 🌱 I’m currently studying Data Science and Machine Learning
 - 📫 Reach me on [linkedIn.com/in/one-marcos/](https://www.linkedin.com/in/one-marcos/)
 
+![](https://komarev.com/ghpvc/?username=onemarcos)
+
 <!---
 
 --->
